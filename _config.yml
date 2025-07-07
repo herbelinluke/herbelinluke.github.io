@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The competition will be held in the style of the NeurIPS 2025 competition.
 twitter_username: 
 github_username: robustforaging
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: false
 
 # Build settings
@@ -54,7 +54,7 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -81,15 +81,18 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fa-solid fa-envelope"
+      url: "mailto:robustforaging@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/robustforaging"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/"
 
 defaults:
   # _posts

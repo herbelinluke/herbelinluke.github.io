@@ -40,13 +40,6 @@ feature_row:
 # Robust Visual Foraging Challenge @ NeurIPS 2025
 
 
-<img
-  src="/figures/mouse-fighting_banner2.png"
-  alt="Robust Visual Foraging Challenge Banner"
-  width="640"
-  height="320"
-/>
-
 Welcome to the official competition page for the **Mouse vs AI: Robust Visual Foraging Challenge**, part of the NeurIPS 2025 Competition Track.
 
 Biological agents like mice can robustly perform visually guided tasks in complex environments — even under fog, blur, or visual noise. Can your agent do the same?
