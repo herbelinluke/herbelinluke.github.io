@@ -3,8 +3,6 @@ permalink: /organizers/
 title: "Organizers"
 ---
 
-# Organizers
-
 The Robust Visual Foraging Challenge is organized by:
 
 - **Marius Schneider (Organizer)** is a Postdoc in the Bionic Vision Lab at UC Santa Barbara. In his researches he leverages a combination of large-scale electrophysiological data analysis, machine learning, and biophysically realistic modeling to investigate how the brain extracts and integrates relevant sensory information from complex, dynamic environments to support navigation and behavior. He obtained his PhD in Neurophysics with highest honors from Radboud University Nijmegen, Netherlands in affiliation with the International Max Planck Research School (IMPRS) for Neural Circuits.

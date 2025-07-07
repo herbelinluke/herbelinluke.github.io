@@ -1,4 +1,6 @@
-# Minimal Mistakes remote theme starter
+# Minimal Mistakes theme demo for Robust Foraging webpage
+
+made from the Minimal Mistakes remote theme starter found below
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
