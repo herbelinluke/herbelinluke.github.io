@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Tutorial"
+    url: /tutorial/
+  - title: "Submission Guide"
+    url: /submission-guide/
+  - title: "Training Guide"
+    url: /training-guide/
+  - title: "Organizers"
+    url: /organizers/
