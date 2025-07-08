@@ -6,39 +6,16 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mouse-running-task-raw.png
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-            #url: [download](#download-&-quick-start)
+    - label: "<i class='fas fa-download'></i> Install now (Windows)"
+      url: "https://github.com/robustforaging/mouse_vs_ai_windows"
+    - label: "<i class='fas fa-download'></i> Install now (macOS)"
+      url: "https://github.com/robustforaging/mouse_vs_ai_macOS"
+    - label: "<i class='fas fa-download'></i> Install now (Linux)"
+      url: "https://github.com/robustforaging/mouse_vs_ai_linux"
+            
 excerpt: >
   A competition pitting an ai model against visual tasks a mouse can solve in fog, rain, etc.<br />
-feature_row:
-  - image_path: /assets/images/mouse-fighting_banner2.png
-    alt: "submission"
-    title: "Submission Guide"
-    excerpt: "Pretty much almost everything you need to submit your ai model in this competition."
-    url: "/submission-guide/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mouse-fighting-raw.png
-    alt: "training"
-    title: "Training Guide"
-    excerpt: "Hit the gym and get that ai model built like arnold."
-    url: "/training-guide/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mouse-running-task-banner2.png
-    alt: "organizers"
-    title: "Amazing Organizers"
-    excerpt: "Meet the lovely people that made this competition possible!"
-    url: "/organizers"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
 ---
-
-{% include feature_row %}
-
-
-# Robust Visual Foraging Challenge @ NeurIPS 2025
-
 
 Welcome to the official competition page for the **Mouse vs AI: Robust Visual Foraging Challenge**, part of the NeurIPS 2025 Competition Track.
 
@@ -76,6 +53,7 @@ Choose the build for your platform:
 | **Windows (GUI)**           | [Windows v1.0](https://github.com/robustforaging/mouse_vs_ai_windows)     |
 | **macOS (GUI)**             | [macOS v1.0](https://github.com/robustforaging/mouse_vs_ai_macOS)         |
 | **Linux (GUI)**             | [Linux v1.0](https://github.com/robustforaging/mouse_vs_ai_linux)         |
+
 
 
 
